@@ -1,5 +1,3 @@
-
-
 let car = new Car(300, 100, 40, 20)
 let brain = new Brain()
 let lines = []
